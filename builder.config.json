@@ -1,0 +1,6 @@
+{
+  "command": "npm run dev",
+  "serverUrl": "https://www.figma.com/design/gIc4FhRSgGojZhIMoSkKJp/Untitled?node-id=0-498&t=RfMdO7c4ALf7wZ5q-1",
+  "authenticateProxy": false,
+  "commitMode": "commits"
+}
